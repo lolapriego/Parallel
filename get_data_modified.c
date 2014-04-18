@@ -16,6 +16,12 @@
 
  */
 
+#define A 0
+
+#define B 1
+
+#define N 100
+
 #include <stdio.h>
 /* We'll be using MPI routines, definitions, etc. */
 #include <mpi.h>
